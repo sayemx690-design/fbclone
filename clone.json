@@ -1,0 +1,54 @@
+{
+  "valid_keys": [
+    "demo123",
+    "social456", 
+    "access789",
+    "testkey001",
+    "webapp2024",
+    "facebookclone",
+    "postmaster",
+    "socialmedia2024"
+  ],
+  "users": {
+    "demo123": {
+      "name": "Demo User",
+      "avatar": "👤",
+      "bio": "Just testing the app"
+    },
+    "social456": {
+      "name": "Social Butterfly",
+      "avatar": "🦋",
+      "bio": "Love connecting with people"
+    },
+    "access789": {
+      "name": "Power User",
+      "avatar": "💪",
+      "bio": "Making things happen"
+    },
+    "testkey001": {
+      "name": "Quality Tester",
+      "avatar": "🧪",
+      "bio": "Testing all features"
+    },
+    "webapp2024": {
+      "name": "Web Developer",
+      "avatar": "🌐",
+      "bio": "Building amazing apps"
+    },
+    "facebookclone": {
+      "name": "Facebook Fan",
+      "avatar": "👍",
+      "bio": "Love this clone!"
+    },
+    "postmaster": {
+      "name": "Post Master",
+      "avatar": "📝",
+      "bio": "Posting expert"
+    },
+    "socialmedia2024": {
+      "name": "Social Media Expert",
+      "avatar": "📱",
+      "bio": "Social media enthusiast"
+    }
+  }
+}
